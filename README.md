@@ -11,7 +11,7 @@ The value of a house is more than just location and square footage. Houses have 
 - Data Visualisation
 - Machine Learning (Linear Regression, Random Forest Regression, Decision Tree Regression, KNeighbor Regression)
 
-# Technologies
+# Technologies Used
 - Python
 - Jupyter
 - Numpy, Pandas, Seaborn, Matplotlib
