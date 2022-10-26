@@ -19,7 +19,7 @@ The value of a house is more than just location and square footage. Houses have 
 
 # Project Description
 - Project began with fetching of data from csv file [Data](https://github.com/ShamikRana/House-Price-Prediction-Using-Regression-Model/blob/main/House_Data.csv) downloaded from Kaggle
-- Data them cleaned by removing null values ,outliers and useless columns
+- Data is then cleaned by removing null values ,outliers and useless columns
 - New features are created like price_per_sqft and data is normalised using MinMaxScaler and StandardScaler
 - Dataset is divided in 80:20 ratio as test and train dataset
 - Machine Learning algorithms are applied like Linear Regression, Random Forest Regression, Decision Tree Regression, KNeighbor Regression
